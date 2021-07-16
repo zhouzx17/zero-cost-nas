@@ -55,6 +55,8 @@ def load_all():
     from . import jacob_cov
     from . import plain
     from . import synflow
+    from . import relu_logdet
+    from . import relu
 
 
 # TODO: should we do that by default?
